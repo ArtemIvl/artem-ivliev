@@ -1,5 +1,4 @@
-**A coding challenge for Full Stack JavaScript role at Miyagami by Artem Ivliev
-**
+**A coding challenge for Full Stack JavaScript role at Miyagami by Artem Ivliev**
 
 To start the application simply clone the repository on your local machine.
 
