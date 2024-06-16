@@ -3,7 +3,9 @@
 To start the application simply clone the repository on your local machine.
 
 Then, after opening it in any code editor run npm install.
+
 After that start a server by running npm start.
+
 Finally, run the frontend part by navigating to /frontend directory and running npm run dev.
 
 The app dispalys images from a public API and allows user to search images based on tags.
