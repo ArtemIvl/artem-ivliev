@@ -1,4 +1,4 @@
-jsonFlickrFeed({
+{
 		"title": "Uploads from everyone",
 		"link": "https:\/\/www.flickr.com\/photos\/",
 		"description": "",
@@ -226,5 +226,4 @@ jsonFlickrFeed({
 			"tags": ""
 	   }
         ]
-})
- Save
+}
